@@ -13,6 +13,6 @@ Role-based Access – Admin, HR, cafeteria manager, and employee views
 
 🔹 Tech Stack
 Backend: Java, Spring Boot, Spring Data JPA
-Database: MySQL
+Database: MySQL,
 API Communication: REST APIs (microservices friendly)
 ✅ With this system, companies can reduce food wastage, manage meal costs effectively, and provide a convenient lunch booking experience for employees.
