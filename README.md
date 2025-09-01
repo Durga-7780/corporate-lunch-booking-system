@@ -9,7 +9,7 @@ Menu & Meal Slots – Define daily menus, meal types (Veg/Non-Veg, Special Diet)
 Lunch Booking – Employees can book, cancel, or modify lunch reservations before a cut-off time.
 Payment & Subsidy Handling – Supports free, subsidized, or employee-paid meals.
 Reports & Analytics – Generate reports on daily bookings, no-shows, costs, and employee preferences.
-Role-based Access – Admin, HR, cafeteria manager, and employee views
+Role-based Access – Admin, HR, cafeteria manager, and employee views.
 
 🔹 Tech Stack
 Backend: Java, Spring Boot, Spring Data JPA
